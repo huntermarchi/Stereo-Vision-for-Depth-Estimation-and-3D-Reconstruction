@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-“Stereo Vision for Depth Estimation and 3D Reconstruction” is a computer vision project developed by Satyabrat that focuses on reconstructing three-dimensional (3D) scenes from two-dimensional (2D) stereo images.
+“Stereo Vision for Depth Estimation and 3D Reconstruction” is a computer vision project focused on reconstructing three-dimensional (3D) scenes from two-dimensional (2D) stereo images.
 Using OpenCV’s StereoBM and StereoSGBM algorithms, the project computes disparity maps — special grayscale images that capture pixel-wise depth information.
-These disparity values are then reprojected into 3D space, allowing the visualization of real-world structures in depth and dimension.
+These disparity values are then reprojected into 3D space, enabling visualization of real-world structures with depth and dimension.
 
 This project demonstrates how machines can perceive depth similar to human binocular vision, bridging the gap between 2D image data and 3D understanding.
-Through this implementation, Satyabrat successfully showcased how AI and computer vision can be used for applications such as autonomous navigation, robotics, AR/VR environments, and medical imaging.
+It also showcases how AI and computer vision can be applied in fields such as autonomous navigation, robotics, AR/VR environments, and medical imaging.
 
 ## Table of Contents
 
